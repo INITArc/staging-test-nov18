@@ -211,3 +211,11 @@ real hardware.
 ## License
 
 MIT
+
+## INIT Arc preservation
+
+This is an independent public copy preserved in INIT Arc, not a continuing mirror. Original authors retain their rights and original licence obligations remain applicable. INIT’s preservation terms are in [LICENSE](LICENSE).
+Original terms: [LICENSE-ORIGINAL](<LICENSE-ORIGINAL>).
+Repository Actions are disabled until an INIT Arc owner enables them. Submodules remain external references. Issues, releases, settings, secrets and collaborators were not imported.
+
+## End INIT Arc preservation

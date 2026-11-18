@@ -1,21 +1,33 @@
-MIT License
+INIT Arc preservation licence
 
-Copyright (c) 2026 Luis Ahumada Martens
+Project: Test-nov18
+Chapter: INIT Professional
+Repository: INITArc/staging-test-nov18
+Start: 20 November 2026
+Submission: 21 November 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Contributors
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Luis Ahumada
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Who owns this work
+
+Copyright in everything in this repository belongs to the people who wrote it: the contributors named above and anyone else whose commits are in its history. Nothing in this file transfers that copyright to INIT or to anyone else.
+
+2. What INIT may do
+
+Each contributor grants INIT a perpetual, irrevocable, non-exclusive, royalty-free licence to host, preserve, archive and display this repository and its history, in INIT Arc and on INIT's own sites. INIT keeps the repository so that the work is not lost. INIT does not use the software, sell it or license it to anyone else.
+
+3. What the team may do
+
+Each contributor grants every other contributor a perpetual, non-exclusive, royalty-free licence to use, change and license the team's work in this repository. Any one of them may take the whole project and continue it without asking the others, and none of them may stop the others doing the same.
+
+4. What everyone else may do
+
+No other rights are granted. This repository is public on GitHub, so under GitHub's Terms of Service anyone may view it and fork it on GitHub, and nothing more. Anyone who wants to use the work asks a contributor, who may license their own fork as they choose.
+
+5. After the submission date
+
+From 20 November 2026 to 21 November 2026 the team builds in this repository as part of INIT Studio. After 21 November 2026 INIT preserves it as it stood, and the contributors continue the work in their own forks.
+
+This text is a draft, written without legal advice. INIT may replace it with a later version.
